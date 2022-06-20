@@ -1,6 +1,6 @@
 <footer class="footer">
     <?php if ($number) { ?>
-        <a href="index.php">Click Here to Pick Another Number!</a>
+        <a href="index.php">Click Here to Test Another Number!</a>
     <?php } else { ?>
         🚀🚀🚀🚀🚀🚀
     <?php } ?>
